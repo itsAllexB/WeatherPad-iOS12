@@ -1,0 +1,10 @@
+{
+	entry = {
+		bundle = WeatherPadPrefs;
+		cell = PSLinkCell;
+		detail = WPRootListController;
+		icon = icon.png;
+		isController = 1;
+		label = "Weather for iPad";
+	};
+}
