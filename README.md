@@ -1,3 +1,5 @@
+<img src="icon.png" alt="WeatherPad icon" width="96" align="left">
+
 # WeatherPad (iOS 12)
 
 **Apple's iPhone Weather app, running natively on iPad.**
@@ -14,9 +16,9 @@ This is an unofficial jailbreak tweak. It is not affiliated with or endorsed by 
 | --- | --- |
 | <img src="screenshots/weather-portrait.jpg" alt="Weather in portrait" width="330"> | <img src="screenshots/weather-landscape.jpg" alt="Weather in landscape with two columns" width="440"> |
 
-| Animated backgrounds | Split View | Slide Over |
-| --- | --- | --- |
-| <img src="screenshots/weather-thunderstorm.jpg" alt="Animated thunderstorm background" width="330"> | <img src="screenshots/weather-split-view.jpg" alt="Weather in Split View" width="230"> | <img src="screenshots/weather-slide-over.jpg" alt="Weather in Slide Over over Settings" width="250"> |
+| Animated backgrounds | Slide Over |
+| --- | --- |
+| <img src="screenshots/weather-thunderstorm.jpg" alt="Animated thunderstorm background" width="330"> | <img src="screenshots/weather-slide-over.jpg" alt="Weather in Slide Over over Settings" width="250"> |
 
 Settings > Weather for iPad:
 
