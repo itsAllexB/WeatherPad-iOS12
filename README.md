@@ -1,6 +1,6 @@
-<img src="icon.png" alt="WeatherPad icon" width="96" align="left">
+<p align="center"><img src="icon.png" alt="WeatherPad icon" width="128"></p>
 
-# WeatherPad (iOS 12)
+<h1 align="center">WeatherPad (iOS 12)</h1>
 
 **Apple's iPhone Weather app, running natively on iPad.**
 
