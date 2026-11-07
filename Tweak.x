@@ -1,5 +1,5 @@
 // SPDX-License-Identifier: GPL-3.0-or-later
-// Copyright (C) 2026 itsAllexB
+// Copyright (C) 2026 AllexB
 
 // WeatherPad 1.2.2
 // Loaded into three processes only (see WeatherPad.plist):

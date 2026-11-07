@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # SPDX-License-Identifier: GPL-3.0-or-later
-# Copyright (C) 2026 itsAllexB
+# Copyright (C) 2026 AllexB
 """WeatherPad installer helper. Standard library only; run it with `python3 -I`.
 
 Downloads only the parts of Apple's iPhone 5s (iPhone6,1) iOS 12.5.8 OTA update that hold

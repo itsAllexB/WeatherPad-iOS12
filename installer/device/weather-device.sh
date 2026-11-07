@@ -1,6 +1,6 @@
 #!/bin/bash
 # SPDX-License-Identifier: GPL-3.0-or-later
-# Copyright (C) 2026 itsAllexB
+# Copyright (C) 2026 AllexB
 #
 # Runs as root ON THE iPAD. install-weather.sh copies it over and calls it; you can also run it
 # yourself after copying the build folder over:

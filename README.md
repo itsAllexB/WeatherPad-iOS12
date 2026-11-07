@@ -86,7 +86,7 @@ What's in this repo:
 
 ## Credits and license
 
-Made by [itsAllexB](https://github.com/itsAllexB).
+Made by [AllexB](https://github.com/itsAllexB).
 
 WeatherPad is free software under the GNU General Public License v3.0 or later. See [LICENSE](LICENSE). The license covers the code in this repo only. The Weather app and its backgrounds belong to Apple and are not part of this project.
 

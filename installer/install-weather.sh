@@ -1,6 +1,6 @@
 #!/bin/bash
 # SPDX-License-Identifier: GPL-3.0-or-later
-# Copyright (C) 2026 itsAllexB
+# Copyright (C) 2026 AllexB
 #
 # Rebuilds Apple's iPhone Weather app (iOS 12.5.8) and its animated backgrounds for the iPad,
 # for use with the WeatherPad tweak. Apple's files are downloaded from Apple's own update
